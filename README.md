@@ -1,3 +1,2 @@
 # EloBuddy
-updated 7.1 
-ALWAYS UPDATE
+Disable Drawings updated 7.1 // always updated
